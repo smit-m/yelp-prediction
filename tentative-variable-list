@@ -1,0 +1,31 @@
+Tentative list of variables in the dataset:
+
+1. Name
+2. Claimed - (1 or 0)
+3. Price_Range - (numeric 1,2,3,4)
+4. Types (still thinking of how we will use this) - will be numeric though (like a score)
+5. website_exists - (1 or 0)
+6. Telephone_exists - (1 or 0)
+7. Weekday_Hour_Closing_time
+8. Weekend_Hour_Closing_time
+9. Open_Late_Night - (1 or 0)
+10. Open_Early_Morning - (1 or 0)
+11. Open_24_hrs - (1 or 0)
+12. Info1 - (1 or 0)
+13. Info2 - (1 or 0)
+14. Info3 - (1 or 0)
+15. Info4 - (1 or 0)
+16. Info5 - (1 or 0)
+17. Info6 - (1 or 0)
+18. Info7 - (1 or 0)
+19. Info8 - (1 or 0)
+20. Info9 - (1 or 0)
+21. Info10 - (1 or 0)
+22. Info11 - (1 or 0)
+23. Info12 - (1 or 0)
+24. Info13 - (1 or 0)
+25. Info14 - (1 or 0)
+26. Info15 - (1 or 0)
+
+
+Predictor: Popularity (3 classes: 1,2 stars - "Unpopular"; 3star - "Neutral", 4,5stars - "Popular)
